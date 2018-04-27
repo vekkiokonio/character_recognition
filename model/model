@@ -1,0 +1,2 @@
+Weight files from trained models.
+The file VGG16_digits.h5 refers to the small dataset of only digits which has been computed by character_recognition_digits.
